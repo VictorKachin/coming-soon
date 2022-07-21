@@ -1,0 +1,10 @@
+{
+	"workbench.layoutControl.type": "both",
+	"workbench.editor.historyBasedLanguageDetection": true,
+	"explorer.fileNesting.enabled": true,
+	"git.mergeEditor": true,
+	"explorer.fileNesting.patterns": {
+		"*.html": "${capture}-${capture}.html"
+	},
+	"window.commandCenter": true
+}
